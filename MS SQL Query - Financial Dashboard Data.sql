@@ -1,0 +1,1 @@
+drop credit_card_details;
