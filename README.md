@@ -4,6 +4,7 @@
 
 This Power BI project provides a detailed analysis of customer behavior and revenue performance based on credit card transaction data. The report delivers insights into spending habits, card usage patterns, and demographic influences on revenue, helping stakeholders identify valuable customer segments and optimize engagement strategies.
 
+Live Project Link: https://project.novypro.com/kBUAcR
 ---
 
 ## 📌 Key Visuals and Insights in the Report
